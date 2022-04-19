@@ -1,0 +1,866 @@
+{
+  "poolList": [
+    {
+       "poolContractAddress": "0x2cb6436e186ac83dc1b674a418a08f03085656c4",
+       "projectName": "GoldeFy #1",
+       "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/goldefy/goldefy.png",
+       "poolName": "Guaranteed Pool",
+
+       "salePrice": "1GOD = 0.12BUSD",
+       "IGOStarts": "March 15th,8AM UTC",
+       "IGOEnds": "March 15th,11AM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "GOD",
+       "earnTokenAddress": "0x2Aaa5cb023cf458E7dFa765FD48b64Cd95995ab7",
+       "totalSupply": "270000000",
+       "decimals": "18",
+ 
+       "website": "https://goldefy.com/",
+       "twitter": "https://twitter.com/Goldefy_",
+       "telegram": "https://t.me/GoldeFyOfficial",
+       "medium": "https://medium.com/@GoldeFy",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Claim",
+       "hardCap": "30000",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "GoldeFy was coined from 'Gold' and 'DeFi' but the whole concept was inspired from the movie 'AVATAR'. It is decentralized block-chain based Earn-While-In-Sleep(EWIS) metaverse game where you can buy NFT characters and NFT estate, breed for new NFT character, Character enhancement, mine resources and gems for actual profit.",
+       "earnTokenDetailText": "GoldeFy was coined from 'Gold' and 'DeFi' but the whole concept was inspired from the movie 'AVATAR'. It is decentralized block-chain based Earn-While-In-Sleep(EWIS) metaverse game where you can buy NFT characters and NFT estate, breed for new NFT character, Character enhancement, mine resources and gems for actual profit.",
+       "vestingSchedule": "10% at TGE, then 30% for month 2,3, 4."
+  },
+  {
+       "poolContractAddress": "0x72caba941fdadf3ab7bf1c1e628bb2b81c31a8a2",
+       "projectName": "GoldeFy #2",
+       "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/goldefy/goldefy.png",
+       "poolName": "Staker FCFS Pool",
+
+       "salePrice": "1GOD = 0.12BUSD",
+       "IGOStarts": "March 15th,11:30AM UTC",
+       "IGOEnds": "March 15th,2:30PM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "GOD",
+       "earnTokenAddress": "0x2Aaa5cb023cf458E7dFa765FD48b64Cd95995ab7",
+       "totalSupply": "270000000",
+       "decimals": "18",
+ 
+       "website": "https://goldefy.com/",
+       "twitter": "https://twitter.com/Goldefy_",
+       "telegram": "https://t.me/GoldeFyOfficial",
+       "medium": "https://medium.com/@GoldeFy",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Claim",
+       "hardCap": "30000",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "GoldeFy was coined from 'Gold' and 'DeFi' but the whole concept was inspired from the movie 'AVATAR'. It is decentralized block-chain based Earn-While-In-Sleep(EWIS) metaverse game where you can buy NFT characters and NFT estate, breed for new NFT character, Character enhancement, mine resources and gems for actual profit.",
+       "earnTokenDetailText": "GoldeFy was coined from 'Gold' and 'DeFi' but the whole concept was inspired from the movie 'AVATAR'. It is decentralized block-chain based Earn-While-In-Sleep(EWIS) metaverse game where you can buy NFT characters and NFT estate, breed for new NFT character, Character enhancement, mine resources and gems for actual profit.",
+       "vestingSchedule": "10% at TGE, then 30% for month 2,3, 4."
+   },
+     {
+       "poolContractAddress": "0x0bd409bd33ae9a3b1ba03f108caa2412fb1771b4",
+       "projectName": "DeFiYield App",
+       "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/defiyield/avatar.png",
+       "poolName": "Staker FCFS Pool",
+
+       "salePrice": "1DEFI = 0.24BUSD",
+       "IGOStarts": "March 18th,8AM UTC",
+       "IGOEnds": "March 18th,11AM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "DEFI",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "1000000000",
+       "decimals": "18",
+ 
+       "website": "https://defiyield.app/",
+       "twitter": "https://twitter.com/defiyield_app",
+       "telegram": "https://t.me/defiyield_app",
+       "medium": "https://blog.defiyield.app/",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "3325",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "Retail investors want access to high yielding products found in DeFi space; Stable coins, Yield farming, Staking, any combination of tools available. However, these tools require significant time, effort and expertise to optimally utilize. Most people need an easier solution for their basic financial needs, this is where the DeFiYield App comes to play.",
+       "earnTokenDetailText": "DeFiYield is your Gateway to DeFi, thanks to its innovative suite asset management tools and other first-class features offered to users to help them navigate in the space of blockchain which is the most explosively growing, and thus the most risky and confusing market and technology of the recent decades.",
+       "vestingSchedule": "9 months linear vesting"
+   },
+      {
+       "poolContractAddress": "0x6ee84f83bd34ae26679ef9d88f4a036381634e86",
+       "projectName": "GoldeFy #3",
+       "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/goldefy/goldefy.png",
+       "poolName": "Open to all Pool",
+
+       "salePrice": "1GOD = 0.12BUSD",
+       "IGOStarts": "March 15th,3:00PM UTC",
+       "IGOEnds": "March 16th,3:00AM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "GOD",
+       "earnTokenAddress": "0x2Aaa5cb023cf458E7dFa765FD48b64Cd95995ab7",
+       "totalSupply": "270000000",
+       "decimals": "18",
+ 
+       "website": "https://goldefy.com/",
+       "twitter": "https://twitter.com/Goldefy_",
+       "telegram": "https://t.me/GoldeFyOfficial",
+       "medium": "https://medium.com/@GoldeFy",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Claim",
+       "hardCap": "15704",
+       "accessType": "Open to all",
+ 
+       "earnTokenIntroduce": "GoldeFy was coined from 'Gold' and 'DeFi' but the whole concept was inspired from the movie 'AVATAR'. It is decentralized block-chain based Earn-While-In-Sleep(EWIS) metaverse game where you can buy NFT characters and NFT estate, breed for new NFT character, Character enhancement, mine resources and gems for actual profit.",
+       "earnTokenDetailText": "GoldeFy was coined from 'Gold' and 'DeFi' but the whole concept was inspired from the movie 'AVATAR'. It is decentralized block-chain based Earn-While-In-Sleep(EWIS) metaverse game where you can buy NFT characters and NFT estate, breed for new NFT character, Character enhancement, mine resources and gems for actual profit.",
+       "vestingSchedule": "10% at TGE, then 30% for month 2,3, 4."
+   },
+     {
+       "poolContractAddress": "0xe12d80f1e6f6dafe335d14903812de9970465974",
+       "projectName": "MetaFighter",
+       "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/metafighter/mflogo.jpg",
+       "poolName": " Guaranteed Pool",
+
+       "salePrice": "1MF = 0.01BUSD",
+       "IGOStarts": "March 21th,8AM UTC",
+       "IGOEnds": "March 21th,11AM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "MF",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "1500000000",
+       "decimals": "18",
+ 
+       "website": "http://www.metafighter.com/",
+       "twitter": "https://twitter.com/MetaFighter_NFT",
+       "telegram": "https://t.me/metafighter_official",
+       "medium": "https://medium.com/@metafighter",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "50000",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "MetaFighter is a skill-based Play-to-Earn fighting game that pays players for their combat expertise while capturing the essence of arcade fighting classics like Street Fighter, Virtua Fighter, and Soul Calibur.",
+       "earnTokenDetailText": "MetaFighter is a skill-based Play-to-Earn fighting game that pays players for their combat expertise while capturing the essence of arcade fighting classics like Street Fighter, Virtua Fighter, and Soul Calibur.",
+       "vestingSchedule": "7d initial cliff, then 7.5%, then after 45d distr. over 11 months."
+   },
+    {
+       "poolContractAddress": "0xa060e84480f672eff53fa39d250ebe9be1923575",
+       "projectName": "MetaFighter #2",
+       "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/metafighter/mflogo.jpg",
+       "poolName": " Staker FCFS Pool",
+
+       "salePrice": "1MF = 0.01BUSD",
+       "IGOStarts": "March 21th,11:50AM UTC",
+       "IGOEnds": "March 21th,2:30PM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "MF",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "1500000000",
+       "decimals": "18",
+ 
+       "website": "http://www.metafighter.com/",
+       "twitter": "https://twitter.com/MetaFighter_NFT",
+       "telegram": "https://t.me/metafighter_official",
+       "medium": "https://medium.com/@metafighter",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "44505",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "MetaFighter is a skill-based Play-to-Earn fighting game that pays players for their combat expertise while capturing the essence of arcade fighting classics like Street Fighter, Virtua Fighter, and Soul Calibur.",
+       "earnTokenDetailText": "MetaFighter is a skill-based Play-to-Earn fighting game that pays players for their combat expertise while capturing the essence of arcade fighting classics like Street Fighter, Virtua Fighter, and Soul Calibur.",
+       "vestingSchedule": "7d initial cliff, then 7.5%, then after 45d distr. over 11 months."
+   },
+     {
+       "poolContractAddress": "0xb9e576782ae6c86c5ce5cfde15cf95533036353e",
+       "projectName": "MetaFighter #3",
+       "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/metafighter/mflogo.jpg",
+       "poolName": "Open to all Pool",
+
+       "salePrice": "1MF = 0.01BUSD",
+       "IGOStarts": "March 21th,3PMUTC",
+       "IGOEnds": "March 21th,9PM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "MF",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "1500000000",
+       "decimals": "18",
+ 
+       "website": "http://www.metafighter.com/",
+       "twitter": "https://twitter.com/MetaFighter_NFT",
+       "telegram": "https://t.me/metafighter_official",
+       "medium": "https://medium.com/@metafighter",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "50000",
+       "accessType": "Open to all Pool",
+ 
+       "earnTokenIntroduce": "MetaFighter is a skill-based Play-to-Earn fighting game that pays players for their combat expertise while capturing the essence of arcade fighting classics like Street Fighter, Virtua Fighter, and Soul Calibur.",
+       "earnTokenDetailText": "MetaFighter is a skill-based Play-to-Earn fighting game that pays players for their combat expertise while capturing the essence of arcade fighting classics like Street Fighter, Virtua Fighter, and Soul Calibur.",
+       "vestingSchedule": "7d initial cliff, then 7.5%, then after 45d distr. over 11 months."
+   },
+    {
+       "poolContractAddress": "0x2cb6436e186ac83dc1b674a418a08f03085656c4",
+       "projectName": "GoldeFy #1",
+       "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/goldefy/goldefy.png",
+       "poolName": "Guaranteed Pool",
+
+       "salePrice": "1GOD = 0.12BUSD",
+       "IGOStarts": "March 15th,8AM UTC",
+       "IGOEnds": "March 15th,11AM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "GOD",
+       "earnTokenAddress": "0x2Aaa5cb023cf458E7dFa765FD48b64Cd95995ab7",
+       "totalSupply": "270000000",
+       "decimals": "18",
+ 
+       "website": "https://goldefy.com/",
+       "twitter": "https://twitter.com/Goldefy_",
+       "telegram": "https://t.me/GoldeFyOfficial",
+       "medium": "https://medium.com/@GoldeFy",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Claim",
+       "hardCap": "30000",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "GoldeFy was coined from 'Gold' and 'DeFi' but the whole concept was inspired from the movie 'AVATAR'. It is decentralized block-chain based Earn-While-In-Sleep(EWIS) metaverse game where you can buy NFT characters and NFT estate, breed for new NFT character, Character enhancement, mine resources and gems for actual profit.",
+       "earnTokenDetailText": "GoldeFy was coined from 'Gold' and 'DeFi' but the whole concept was inspired from the movie 'AVATAR'. It is decentralized block-chain based Earn-While-In-Sleep(EWIS) metaverse game where you can buy NFT characters and NFT estate, breed for new NFT character, Character enhancement, mine resources and gems for actual profit.",
+       "vestingSchedule": "10% at TGE, then 30% for month 2,3, 4."
+  },
+  {
+       "poolContractAddress": "0x72caba941fdadf3ab7bf1c1e628bb2b81c31a8a2",
+       "projectName": "GoldeFy #2",
+       "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/goldefy/goldefy.png",
+       "poolName": "Staker FCFS Pool",
+
+       "salePrice": "1GOD = 0.12BUSD",
+       "IGOStarts": "March 15th,11:30AM UTC",
+       "IGOEnds": "March 15th,2:30PM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "GOD",
+       "earnTokenAddress": "0x2Aaa5cb023cf458E7dFa765FD48b64Cd95995ab7",
+       "totalSupply": "270000000",
+       "decimals": "18",
+ 
+       "website": "https://goldefy.com/",
+       "twitter": "https://twitter.com/Goldefy_",
+       "telegram": "https://t.me/GoldeFyOfficial",
+       "medium": "https://medium.com/@GoldeFy",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Claim",
+       "hardCap": "30000",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "GoldeFy was coined from 'Gold' and 'DeFi' but the whole concept was inspired from the movie 'AVATAR'. It is decentralized block-chain based Earn-While-In-Sleep(EWIS) metaverse game where you can buy NFT characters and NFT estate, breed for new NFT character, Character enhancement, mine resources and gems for actual profit.",
+       "earnTokenDetailText": "GoldeFy was coined from 'Gold' and 'DeFi' but the whole concept was inspired from the movie 'AVATAR'. It is decentralized block-chain based Earn-While-In-Sleep(EWIS) metaverse game where you can buy NFT characters and NFT estate, breed for new NFT character, Character enhancement, mine resources and gems for actual profit.",
+       "vestingSchedule": "10% at TGE, then 30% for month 2,3, 4."
+   },
+     {
+       "poolContractAddress": "0x0bd409bd33ae9a3b1ba03f108caa2412fb1771b4",
+       "projectName": "DeFiYield App",
+       "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/defiyield/avatar.png",
+       "poolName": "Staker FCFS Pool",
+
+       "salePrice": "1DEFI = 0.24BUSD",
+       "IGOStarts": "March 18th,8AM UTC",
+       "IGOEnds": "March 18th,11AM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "DEFI",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "1000000000",
+       "decimals": "18",
+ 
+       "website": "https://defiyield.app/",
+       "twitter": "https://twitter.com/defiyield_app",
+       "telegram": "https://t.me/defiyield_app",
+       "medium": "https://blog.defiyield.app/",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "3325",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "Retail investors want access to high yielding products found in DeFi space; Stable coins, Yield farming, Staking, any combination of tools available. However, these tools require significant time, effort and expertise to optimally utilize. Most people need an easier solution for their basic financial needs, this is where the DeFiYield App comes to play.",
+       "earnTokenDetailText": "DeFiYield is your Gateway to DeFi, thanks to its innovative suite asset management tools and other first-class features offered to users to help them navigate in the space of blockchain which is the most explosively growing, and thus the most risky and confusing market and technology of the recent decades.",
+       "vestingSchedule": "9 months linear vesting"
+   },
+      {
+       "poolContractAddress": "0x6ee84f83bd34ae26679ef9d88f4a036381634e86",
+       "projectName": "GoldeFy #3",
+       "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/goldefy/goldefy.png",
+       "poolName": "Open to all Pool",
+
+       "salePrice": "1GOD = 0.12BUSD",
+       "IGOStarts": "March 15th,3:00PM UTC",
+       "IGOEnds": "March 16th,3:00AM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "GOD",
+       "earnTokenAddress": "0x2Aaa5cb023cf458E7dFa765FD48b64Cd95995ab7",
+       "totalSupply": "270000000",
+       "decimals": "18",
+ 
+       "website": "https://goldefy.com/",
+       "twitter": "https://twitter.com/Goldefy_",
+       "telegram": "https://t.me/GoldeFyOfficial",
+       "medium": "https://medium.com/@GoldeFy",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Claim",
+       "hardCap": "15704",
+       "accessType": "Open to all",
+ 
+       "earnTokenIntroduce": "GoldeFy was coined from 'Gold' and 'DeFi' but the whole concept was inspired from the movie 'AVATAR'. It is decentralized block-chain based Earn-While-In-Sleep(EWIS) metaverse game where you can buy NFT characters and NFT estate, breed for new NFT character, Character enhancement, mine resources and gems for actual profit.",
+       "earnTokenDetailText": "GoldeFy was coined from 'Gold' and 'DeFi' but the whole concept was inspired from the movie 'AVATAR'. It is decentralized block-chain based Earn-While-In-Sleep(EWIS) metaverse game where you can buy NFT characters and NFT estate, breed for new NFT character, Character enhancement, mine resources and gems for actual profit.",
+       "vestingSchedule": "10% at TGE, then 30% for month 2,3, 4."
+   },
+     {
+       "poolContractAddress": "0xe12d80f1e6f6dafe335d14903812de9970465974",
+       "projectName": "MetaFighter",
+       "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/metafighter/mflogo.jpg",
+       "poolName": " Guaranteed Pool",
+
+       "salePrice": "1MF = 0.01BUSD",
+       "IGOStarts": "March 21th,8AM UTC",
+       "IGOEnds": "March 21th,11AM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "MF",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "1500000000",
+       "decimals": "18",
+ 
+       "website": "http://www.metafighter.com/",
+       "twitter": "https://twitter.com/MetaFighter_NFT",
+       "telegram": "https://t.me/metafighter_official",
+       "medium": "https://medium.com/@metafighter",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "50000",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "MetaFighter is a skill-based Play-to-Earn fighting game that pays players for their combat expertise while capturing the essence of arcade fighting classics like Street Fighter, Virtua Fighter, and Soul Calibur.",
+       "earnTokenDetailText": "MetaFighter is a skill-based Play-to-Earn fighting game that pays players for their combat expertise while capturing the essence of arcade fighting classics like Street Fighter, Virtua Fighter, and Soul Calibur.",
+       "vestingSchedule": "7d initial cliff, then 7.5%, then after 45d distr. over 11 months."
+   },
+    {
+       "poolContractAddress": "0xa060e84480f672eff53fa39d250ebe9be1923575",
+       "projectName": "MetaFighter #2",
+       "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/metafighter/mflogo.jpg",
+       "poolName": " Staker FCFS Pool",
+
+       "salePrice": "1MF = 0.01BUSD",
+       "IGOStarts": "March 21th,11:50AM UTC",
+       "IGOEnds": "March 21th,2:30PM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "MF",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "1500000000",
+       "decimals": "18",
+ 
+       "website": "http://www.metafighter.com/",
+       "twitter": "https://twitter.com/MetaFighter_NFT",
+       "telegram": "https://t.me/metafighter_official",
+       "medium": "https://medium.com/@metafighter",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "44505",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "MetaFighter is a skill-based Play-to-Earn fighting game that pays players for their combat expertise while capturing the essence of arcade fighting classics like Street Fighter, Virtua Fighter, and Soul Calibur.",
+       "earnTokenDetailText": "MetaFighter is a skill-based Play-to-Earn fighting game that pays players for their combat expertise while capturing the essence of arcade fighting classics like Street Fighter, Virtua Fighter, and Soul Calibur.",
+       "vestingSchedule": "7d initial cliff, then 7.5%, then after 45d distr. over 11 months."
+   },
+     {
+       "poolContractAddress": "0xb9e576782ae6c86c5ce5cfde15cf95533036353e",
+       "projectName": "MetaFighter #3",
+       "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/metafighter/mflogo.jpg",
+       "poolName": "Open to all Pool",
+
+       "salePrice": "1MF = 0.01BUSD",
+       "IGOStarts": "March 21th,3PMUTC",
+       "IGOEnds": "March 21th,9PM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "MF",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "1500000000",
+       "decimals": "18",
+ 
+       "website": "http://www.metafighter.com/",
+       "twitter": "https://twitter.com/MetaFighter_NFT",
+       "telegram": "https://t.me/metafighter_official",
+       "medium": "https://medium.com/@metafighter",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "50000",
+       "accessType": "Open to all Pool",
+ 
+       "earnTokenIntroduce": "MetaFighter is a skill-based Play-to-Earn fighting game that pays players for their combat expertise while capturing the essence of arcade fighting classics like Street Fighter, Virtua Fighter, and Soul Calibur.",
+       "earnTokenDetailText": "MetaFighter is a skill-based Play-to-Earn fighting game that pays players for their combat expertise while capturing the essence of arcade fighting classics like Street Fighter, Virtua Fighter, and Soul Calibur.",
+       "vestingSchedule": "7d initial cliff, then 7.5%, then after 45d distr. over 11 months."
+   },
+     {
+       "poolContractAddress": "0x7356dc7f0cf15a757cd808be782f36fb0900d270",
+       "projectName": "Sugar Kingdom",
+       "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/sugarkingdom/sugarkingdom+avatar.png",
+       "poolName": "Nx Alloc Pool",
+
+       "salePrice": "1CANDY = 0.09BUSD",
+       "IGOStarts": "March 24th,8AM UTC",
+       "IGOEnds": "March 24th,11AM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "CANDY",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "100000000",
+       "decimals": "18",
+ 
+        "website": "https://www.sugarkingdom.io/", 
+        "twitter": "https://twitter.com/SugarKingdomNFT",
+        "telegram": "https://t.me/+X3rSQ4M1yYVkNTYx", 
+       "medium": "https://medium.com/tag/sugar-kingdom",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "35000",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "Sugar Kingdom is not just a game for those who are blockchain users.But it’s a game that could introduce blockchain to millions of players.",
+       "earnTokenDetailText": "Besides enjoying an addictive and immersive gameplay, players are the real owners of the items inside the game, and they are able to exchange them with other players and obtain real, attractive and significant rewards according to their total play time. Later, they can invest these earnings in the different economic systems that coexist within the platform. ",
+       "vestingSchedule": "6% at TGE, 4 months cliff, then 12% per month."
+   },
+      {
+       "poolContractAddress": "0x9ee3216c485968e26f6377af783aed1612e4d957",
+       "projectName": " Sugar Kingdom #2",
+       "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/sugarkingdom/sugarkingdom+avatar.png",
+       "poolName": " Public Pool",
+
+       "salePrice": "1CANDY = 0.09BUSD",
+       "IGOStarts": "March 24th,11:30AM UTC",
+       "IGOEnds": "March 24th,2:30PM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "CANDY",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "100000000",
+       "decimals": "18",
+ 
+        "website": "https://www.sugarkingdom.io/", 
+        "twitter": "https://twitter.com/SugarKingdomNFT",
+        "telegram": "https://t.me/+X3rSQ4M1yYVkNTYx", 
+       "medium": "https://medium.com/tag/sugar-kingdom",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "32776",
+       "accessType": "Open to all",
+ 
+       "earnTokenIntroduce": "Sugar Kingdom is not just a game for those who are blockchain users.But it’s a game that could introduce blockchain to millions of players.",
+       "earnTokenDetailText": "Besides enjoying an addictive and immersive gameplay, players are the real owners of the items inside the game, and they are able to exchange them with other players and obtain real, attractive and significant rewards according to their total play time. Later, they can invest these earnings in the different economic systems that coexist within the platform. ",
+       "vestingSchedule": "6% at TGE, 4 months cliff, then 12% per month."
+   },
+     {
+       "poolContractAddress": "0xa910681697c163decbcf0a507f67bfe535dabfb0",
+       "projectName": "Nomad Exiles",
+       "logoUrl": "https://pbs.twimg.com/profile_images/1447597919805263881/CHYWVY56_400x400.jpg",
+       "poolName": " Guaranteed Pool",
+
+       "salePrice": "1PRIDE = 0.1BUSD",
+       "IGOStarts": "March 25th,8:00AM UTC",
+       "IGOEnds": "March 25th,11:00AM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "PRIDE",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "100000000",
+       "decimals": "18",
+ 
+        "website": "https://pridemetaverse.io/", 
+        "twitter": "https://twitter.com/NomadExiles",
+        "telegram": "https://t.me/NomadExilesChat", 
+       "medium": "https://medium.com/search/posts?q=Nomad+Exiles&source=search_publication----------------------------------------",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "100000",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "NOMAD EXILES IS AN EXCITING CRYPTO RPG GAME WITH THE INTEGRATED NFTS AND FREE-TO-PLAY MECHANICS!",
+       "earnTokenDetailText": "NOMAD EXILES IS AN EXCITING CRYPTO RPG GAME WITH THE INTEGRATED NFTS AND FREE-TO-PLAY MECHANICS! ",
+       "vestingSchedule": "10% at TGE and 10% at each following month."
+   },
+     
+     {
+       "poolContractAddress": "0x3cb14c1722c6dd97a64b10c00924911ca6aaa63d",
+       "projectName": "Nomad Exiles #2",
+       "logoUrl": "https://pbs.twimg.com/profile_images/1447597919805263881/CHYWVY56_400x400.jpg",
+       "poolName": "Staker FCFS Pool",
+
+       "salePrice": "1PRIDE = 0.1BUSD",
+       "IGOStarts": "March 25th,11:30AM UTC",
+       "IGOEnds": "March 25th,2:30PM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "PRIDE",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "100000000",
+       "decimals": "18",
+ 
+        "website": "https://pridemetaverse.io/", 
+        "twitter": "https://twitter.com/NomadExiles",
+        "telegram": "https://t.me/NomadExilesChat", 
+       "medium": "https://medium.com/search/posts?q=Nomad+Exiles&source=search_publication----------------------------------------",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "82622",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "NOMAD EXILES IS AN EXCITING CRYPTO RPG GAME WITH THE INTEGRATED NFTS AND FREE-TO-PLAY MECHANICS!",
+       "earnTokenDetailText": "NOMAD EXILES IS AN EXCITING CRYPTO RPG GAME WITH THE INTEGRATED NFTS AND FREE-TO-PLAY MECHANICS! ",
+       "vestingSchedule": "10% at TGE and 10% at each following month."
+   },
+ {
+       "poolContractAddress": "0xf0f4e1a75758b6a281f5cf8db72a1fdf8686103c",
+       "projectName": "Nomad Exiles #3",
+       "logoUrl": "https://pbs.twimg.com/profile_images/1447597919805263881/CHYWVY56_400x400.jpg",
+       "poolName": "Open to all Pool",
+
+       "salePrice": "1PRIDE = 0.1BUSD",
+       "IGOStarts": "March 25th,3:00PM UTC",
+       "IGOEnds": "March 28th,0:00PM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "PRIDE",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "100000000",
+       "decimals": "18",
+ 
+        "website": "https://pridemetaverse.io/", 
+        "twitter": "https://twitter.com/NomadExiles",
+        "telegram": "https://t.me/NomadExilesChat", 
+       "medium": "https://medium.com/search/posts?q=Nomad+Exiles&source=search_publication----------------------------------------",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "73735",
+       "accessType": "Open to all",
+ 
+       "earnTokenIntroduce": "NOMAD EXILES IS AN EXCITING CRYPTO RPG GAME WITH THE INTEGRATED NFTS AND FREE-TO-PLAY MECHANICS!",
+       "earnTokenDetailText": "NOMAD EXILES IS AN EXCITING CRYPTO RPG GAME WITH THE INTEGRATED NFTS AND FREE-TO-PLAY MECHANICS! ",
+       "vestingSchedule": "10% at TGE and 10% at each following month."
+   },
+     {
+       "poolContractAddress": "0xa20dc514091cd6be5aea0b924d192e9d1a6435b4",
+       "projectName": "Fight of the Ages",
+       "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/fota.png",
+       "poolName": "Nx Alloc Pool",
+
+       "salePrice": "1FOTA = 0.15BUSD",
+       "IGOStarts": "March 31th,8AM UTC",
+       "IGOEnds": "March 31th,11AM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "FOTA",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "700000000",
+       "decimals": "18",
+ 
+        "website": "https://fota.io/", 
+        "twitter": "https://twitter.com/fightoftheages", 
+        "telegram": "https://t.me/fota_channel", 
+        "medium": "https://medium.com/search?source=home----------------------------------------&q=Fight+of+the+Ages",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "6000",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "FOTA is a Triple-A MOBA Game project (based in Singapore) with a fantasy universe inhabited by many races throughout the universe. In the world of FOTA, NFT Technology is optimized so that users can feel the possibility of owning valuable digital assets during the journey.",
+       "earnTokenDetailText": "FOTA is more than just a MOBA game platform, the development team has also introduced economic mechanisms and democracies through the DAO with the vision of turning this Metaverse platform into an ever-more realistic universe through integrating Microsoft Mesh (a Microsoft Corporation branch pioneering in creating the most immersive Metaverse experience).",
+       "vestingSchedule": "10% unlocked 7 days after IDO, then weekly vesting for 12 months (airdrop method)."
+   },
+      {
+       "poolContractAddress": "0xdf91ec7d9e01e0392eee6476c85e355fc8eaeb92",
+       "projectName": "Shoefy sNFT INO",
+       "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/shoefy/shoefy.jpg",
+       "poolName": "Shoefy sNFT INO Pool",
+
+       "salePrice": "1sNFT = 750BUSD",
+       "IGOStarts": "April 4th,8AM UTC",
+       "IGOEnds": "April 11th,8AM UTC",
+       "ClaimStarts": "TBA",
+       "minPricePerToken": "750",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "sNFT",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "16",
+       "decimals": "N/A",
+ 
+        "website": "https://www.shoefy.io/", 
+        "twitter": "https://twitter.com/ShoeFyio", 
+        "telegram": "https://t.me/ShoeFy_Official", 
+        "medium": "https://medium.com/@ShoeFy",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "12000",
+       "accessType": "Open to all",
+ 
+       "earnTokenIntroduce": "Our vision is to provide a suite of DeFi utilities for NFTs with Yield farming, and liquidity mining opportunities for NFTs like never before, aligned with our Play 2 Earn Game and Shoeverse Metaverse, and brand collaborations.",
+       "earnTokenDetailText": "The genesis holders will have the following benefits and more: + Genesis sNFT holders to be airdropped 1 Racecraft (rNFT)/Car NFT worth 0.2 Eth. + Enter the Shoeverse with wearable digital shoes. + Holders of sNFTs will also earn HIGH APY rewards in $SHOE by staking sNFTs. Our vision is to provide a suite of DeFi utilities for NFTs with Yield farming, and liquidity mining opportunities for NFTs like never before, aligned with our Play 2 Earn Game and Shoeverse Metaverse, and brand collaborations. ",
+       "vestingSchedule": "TBA"
+    },
+    {
+       "poolContractAddress": "0x61bdba808beab7e9c041b9c25d612334d38456c1",
+       "projectName": "Legion Network",
+       "logoUrl": "https://pbs.twimg.com/profile_images/1438681118526558216/JWzpCTdg_400x400.jpg",
+       "poolName": "Guaranteed Pool",
+
+       "salePrice": "1LGX= 0.075BUSD",
+       "IGOStarts": "April 14th,8AM UTC",
+       "IGOEnds": "April 14th,11AM UTC",
+       "ClaimStarts": "TBA",
+    
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "LGX",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "1000000000",
+       "decimals": "18",
+ 
+        "website": "https://legionnetwork.io/", 
+        "twitter": "https://twitter.com/LegionNetwork__", 
+        "telegram": "https://t.me/legionnetworkcommunity", 
+        "medium": "https://legionnetwork.medium.com/",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "25000",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "Legion Network is the world's largest crypto SuperApp that combines NFT’s, Metaverse, Play2Earn, Watch2Earn all within a SuperApp. ",
+       "earnTokenDetailText": "Legion Network is the world's largest crypto SuperApp that combines NFT’s, Metaverse, Play2Earn, Watch2Earn all within a SuperApp. ",
+       "vestingSchedule": "10% at TGE, 15% uncloked each month"
+    },
+    {
+       "poolContractAddress": "0x159f94303b13d28d9ad296207c37c9b882806f14",
+       "projectName": "Legion Network #2",
+       "logoUrl": "https://pbs.twimg.com/profile_images/1438681118526558216/JWzpCTdg_400x400.jpg",
+       "poolName": "Open to all Pool",
+
+       "salePrice": "1LGX= 0.075BUSD",
+       "IGOStarts": "April 14th,11:30AM UTC",
+       "IGOEnds": "April 14th,5:30PM UTC",
+       "ClaimStarts": "TBA",
+    
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "LGX",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "1000000000",
+       "decimals": "18",
+ 
+        "website": "https://legionnetwork.io/", 
+        "twitter": "https://twitter.com/LegionNetwork__", 
+        "telegram": "https://t.me/legionnetworkcommunity", 
+        "medium": "https://legionnetwork.medium.com/",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "12105",
+       "accessType": "Open to all",
+ 
+       "earnTokenIntroduce": "Legion Network is the world's largest crypto SuperApp that combines NFT’s, Metaverse, Play2Earn, Watch2Earn all within a SuperApp. ",
+       "earnTokenDetailText": "Legion Network is the world's largest crypto SuperApp that combines NFT’s, Metaverse, Play2Earn, Watch2Earn all within a SuperApp. ",
+       "vestingSchedule": "10% at TGE, 15% uncloked each month"
+    },
+    {
+       "poolContractAddress": "0x242f0147870c73d10b8c6cef37ea828fbcae7341",
+       "projectName": "MultiversePad",
+       "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/multiversepad.png",
+       "poolName": "Guaranteed Pool",
+
+       "salePrice": "1MTVP= 0.02BUSD",
+       "IGOStarts": "April 21th,8:00AM UTC",
+       "IGOEnds": "April 21th,11:00AM UTC",
+       "ClaimStarts": "TBA",
+    
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "MTVP",
+       "earnTokenAddress": "0x64d2906391a82721BB24925fc16A3EfF20c8756e",
+       "totalSupply": "2000000000",
+       "decimals": "18",
+ 
+        "website": "https://multiversepad.com/", 
+        "twitter": "https://twitter.com/MultiversePad", 
+        "telegram": "https://t.me/MultiversePadCommunity", 
+        "medium": "https://medium.com/search/posts?q=MultiversePad&source=search_post-------------------------------------",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "50000",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "MultiversePad A Multichain & Cross-Chain Decentralized All-In-One Platform To Include AMM, Farming, Lending, Launchpad, NFT, and More.",
+       "earnTokenDetailText": "The MTVP token is the native asset of the MultiversePad project. It exists primarily as a BEP-20 token on the Binance Blockchain for now, but will be introduced on the Polygon blockchain soon. It is required for:• Transactional activity on the network• As a staking collateral• For staking rewards• For participation in the Launchpad IDOs • Base asset for cross-chain swaps• For lending and prediction purposes MultiversePad platform modules include: • MultiversePad Farming - a unique deflationary farming, which doesn't rely on inflation to reward stakers, but rather takes parts of every transaction as a deposit for the staking rewards pools. A certain part of every transaction is burned too. • MultiversePad Launchpad - an Initial Decentralized Offering (IDO) platform, designed to incubate promising projects and to allow MTVP holders to participate in early stage investment opportunities and with a guaranteed allocation. • Multichain & Cross-Chain universe Supported Ethereum, BSC, Harmony, Polygon, Solana. • Deflationary mechanism 0.4% amount for farmer rewards and 0.1% will be burned. • Launchpad participation Fair-tiered System. • Guaranteed allocation for all tiers.",
+       "vestingSchedule": "25% at listing then unlocked 6% each week"
+    },
+    {
+       "poolContractAddress": "0x5c1c695da833836601934b875765efdf3b616382",
+       "projectName": "MetaChess",
+       "logoUrl": "https://pbs.twimg.com/profile_images/1473017510928732169/lp_8RQgB_400x400.jpg",
+       "poolName": "Guaranteed Pool",
+
+       "salePrice": "1SHAH= 0.03BUSD",
+       "IGOStarts": "April 25th,8:00AM UTC",
+       "IGOEnds": "April 25th,11:00AM UTC",
+       "ClaimStarts": "TBA",
+    
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "SHAH",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "3000000000",
+       "decimals": "18",
+ 
+        "website": "https://metachess.network", 
+        "twitter": "https://twitter.com/real_metachess", 
+        "telegram": "https://t.me/metachess_network", 
+        "medium": "https://medium.com/@metachess",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "20000",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "MetaChess is the first 3D multiplayer play-to-earn (P2E) and NFT metaverse chess game.",
+       "earnTokenDetailText": "MetaChess is will have a 2D and 3D interface.  The3 unique 3D is called MetaChess Warfront. MetaChess Warfront will feature unique human characters as the chess pieces. These human characters will be sold as NFTs and can be used in  them game. Check  out the trailer here https://www.youtube.com/watch?v=E1VIPs7nigk. The platform also has play-to-earn (P2E) models that makes it worth players’ time. The 2D version is currently playable. You can either play with AI or play with another user.",
+       "vestingSchedule": "33% at TGE, then daily linear vesting over 3 months"
+    }
+
+
+
+
+
+  ]
+}
+
