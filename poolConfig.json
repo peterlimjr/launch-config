@@ -2,7 +2,7 @@
   "poolList": [
     {
        "poolContractAddress": "0x2cb6436e186ac83dc1b674a418a08f03085656c4",
-       "projectName": "GoldeFy #1",
+       "projectName": "GoldeFy #10",
        "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/goldefy/goldefy.png",
        "poolName": "Guaranteed Pool",
 
@@ -823,7 +823,7 @@
     },
     {
        "poolContractAddress": "0x5c1c695da833836601934b875765efdf3b616382",
-       "projectName": "MetaChess1",
+       "projectName": "MetaChess",
        "logoUrl": "https://pbs.twimg.com/profile_images/1473017510928732169/lp_8RQgB_400x400.jpg",
        "poolName": "Guaranteed Pool",
 
