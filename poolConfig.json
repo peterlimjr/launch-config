@@ -822,7 +822,7 @@
        "vestingSchedule": "25% at listing then unlocked 6% each week"
     },
     {
-       "poolContractAddress": "0x5c1c695da833836601934b875765efdf3b616382",
+       "poolContractAddress": "0xa34c45281a3ed9a45bf0fbb15e825527c2d8130a",
        "projectName": "MetaChess",
        "logoUrl": "https://pbs.twimg.com/profile_images/1473017510928732169/lp_8RQgB_400x400.jpg",
        "poolName": "Guaranteed Pool",
