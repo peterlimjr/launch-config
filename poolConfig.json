@@ -932,7 +932,7 @@
        "poolContractAddress": "0x9f52f84c5e38af5cb9d9cd95614e80bd4e51c099",
        "projectName": "NOMADLAND",
        "logoUrl": "https://www.nomadland.to/logo_nomad.png",
-       "poolName": "Open to all",
+       "poolName": "Guaranteed Pool",
 
        "salePrice": "1NOMAD= 0.25BUSD",
        "IGOStarts": "April 29th,01:00PM UTC",
@@ -957,7 +957,7 @@
        "isDisplayRefund": false,
        "tokenDistribution": "Airdrop",
        "hardCap": "20000",
-       "accessType": "Open to all",
+       "accessType": "whitelist",
  
        "earnTokenIntroduce": "Nomadland is an Action RPG & strategy game built on Unreal Engine, BSC blockchain based ",
        "earnTokenDetailText": "Nomadland is an Action RPG & strategy game built on Unreal Engine, BSC blockchain based . Ranzuhn is a mysterious character. Found on a beach around the age of 5 by his adoptive mother, he grow up in a nomadic tribe who settled in the hostile RINK MOUNTAINS.",
