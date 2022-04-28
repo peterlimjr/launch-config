@@ -934,7 +934,7 @@
        "logoUrl": "https://www.nomadland.to/logo_nomad.png",
        "poolName": "Open to all",
 
-       "salePrice": "NOMAD= 0.25BUSD",
+       "salePrice": "1NOMAD= 0.25BUSD",
        "IGOStarts": "April 29th,01:00PM UTC",
        "IGOEnds": "April 29th,04:00PM UTC",
        "ClaimStarts": "30 min after listing DEX",
