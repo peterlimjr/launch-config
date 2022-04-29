@@ -925,9 +925,7 @@
        "earnTokenIntroduce": "MetaChess is the first 3D multiplayer play-to-earn (P2E) and NFT metaverse chess game.",
        "earnTokenDetailText": "MetaChess is will have a 2D and 3D interface.  The3 unique 3D is called MetaChess Warfront. MetaChess Warfront will feature unique human characters as the chess pieces. These human characters will be sold as NFTs and can be used in  them game. Check  out the trailer here https://www.youtube.com/watch?v=E1VIPs7nigk. The platform also has play-to-earn (P2E) models that makes it worth players’ time. The 2D version is currently playable. You can either play with AI or play with another user.",
        "vestingSchedule": "33% at TGE, then daily linear vesting over 3 months"
-    }
-
-,
+    },
      {
        "poolContractAddress": "0x9f52f84c5e38af5cb9d9cd95614e80bd4e51c099",
        "projectName": "NOMADLAND",
@@ -937,7 +935,7 @@
        "salePrice": "1NOMAD= 0.25BUSD",
        "IGOStarts": "April 29th,01:00PM UTC",
        "IGOEnds": "April 29th,04:00PM UTC",
-       "ClaimStarts": "30 min after listing DEX",
+       "ClaimStarts": "TBA",
     
  
        "network": "BSC",
@@ -962,7 +960,44 @@
        "earnTokenIntroduce": "Nomadland is an Action RPG & strategy game built on Unreal Engine, BSC blockchain based ",
        "earnTokenDetailText": "Nomadland is an Action RPG & strategy game built on Unreal Engine, BSC blockchain based . Ranzuhn is a mysterious character. Found on a beach around the age of 5 by his adoptive mother, he grow up in a nomadic tribe who settled in the hostile RINK MOUNTAINS.",
        "vestingSchedule": "20% TGE, 20% monthly"
+    },
+    
+ {
+       "poolContractAddress": "0xcff2928840851a4faad3140c5d31f1fd7d34dec1",
+       "projectName": "NOMADLAND#2",
+       "logoUrl": "https://www.nomadland.to/logo_nomad.png",
+       "poolName": "Open to all Pool",
+
+       "salePrice": "1NOMAD= 0.25BUSD",
+       "IGOStarts": "April 29th,04:30PM UTC",
+       "IGOEnds": "April 29th,08:00PM UTC",
+       "ClaimStarts": "TBA",
+    
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "NOMAD",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "100000000",
+       "decimals": "8",
+ 
+        "website": "https://www.nomadland.to/", 
+        "twitter": "https://twitter.com/nomadgame1", 
+        "telegram": "https://t.me/nomadlandofficial", 
+        
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "20000",
+       "accessType": "open to all",
+ 
+       "earnTokenIntroduce": "Nomadland is an Action RPG & strategy game built on Unreal Engine, BSC blockchain based ",
+       "earnTokenDetailText": "Nomadland is an Action RPG & strategy game built on Unreal Engine, BSC blockchain based . Ranzuhn is a mysterious character. Found on a beach around the age of 5 by his adoptive mother, he grow up in a nomadic tribe who settled in the hostile RINK MOUNTAINS.",
+       "vestingSchedule": "20% TGE, 20% monthly"
     }
+
 
 
 
