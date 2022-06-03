@@ -1028,8 +1028,8 @@
        "hardCap": "20000",
        "accessType": "whitelist",
  
-       "earnTokenIntroduce": "Welcome gamers to Islandpunk — a NFTs Play to Earn game launched on BSC platform with exciting and outstanding features: Oracle, PVP, Zerogas, Stake to Earn and many more interesting events.",
-       "earnTokenDetailText": "Welcome gamers to Islandpunk — a NFTs Play to Earn game launched on BSC platform with exciting and outstanding features: Oracle, PVP, Zerogas, Stake to Earn and many more interesting events.",
+       "earnTokenIntroduce": "Islandpunk - a NFTs Play to Earn game launched on BSC platform with exciting and outstanding features: Oracle, PVP, Zerogas, Stake to Earn, Wake up to earn, Move to earn and many more interesting events.",
+       "earnTokenDetailText": "Islandpunk - a NFTs Play to Earn game launched on BSC platform with exciting and outstanding features: Oracle, PVP, Zerogas, Stake to Earn, Wake up to earn, Move to earn and many more interesting events. Move to earn: Users walk and run to reach a required distance for a period of time while maintaining certain movement speeds to earn rewards + Wakeup to earn: Players wake up at a chosen time to obtain a bonus ticket + Play to earn (Stake to earn): PVE as staking to create a labor-saving experience for our gamers + PVP: Players compete with one another to rank up and earn weekly rewards + Oracle: Every in-game price is fixed by usdt + Zerogas: Our game puts an end to gas fees",
        "vestingSchedule": "33% on TGE, A one month cliff, 33% /month"
   
     },
