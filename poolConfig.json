@@ -1033,6 +1033,42 @@
        "vestingSchedule": "33% on TGE, A one month cliff, 33% /month"
   
     },
+    {
+       "poolContractAddress": "0x004e66bab35b6fe947d1c3101eba79507a759b4d",
+       "projectName": "Island Punk",
+       "logoUrl": "https://i.ibb.co/pQWvKRD/57f4aa8c5642adca8230ded3352daa41.webp",
+       "poolName": "Open to all Pool",
+
+       "salePrice": "1ISP= 0.026BUSD",
+       "IGOStarts": "June 6th,01:30PM UTC",
+       "IGOEnds": "June 6th,06:00PM UTC",
+       "ClaimStarts": "12th June",
+    
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "ISP",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "200000000",
+       "decimals": "18",
+ 
+        "website": "https://islandpunk.io/", 
+        "twitter": "https://twitter.com/IslandpunkISP", 
+        "telegram": "https://t.me/IslandpunkOfficial", 
+        
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "17442",
+       "accessType": "open to all",
+ 
+       "earnTokenIntroduce": "Islandpunk - a NFTs Play to Earn game launched on BSC platform with exciting and outstanding features: Oracle, PVP, Zerogas, Stake to Earn, Wake up to earn, Move to earn and many more interesting events.",
+       "earnTokenDetailText": "Islandpunk - a NFTs Play to Earn game launched on BSC platform with exciting and outstanding features: Oracle, PVP, Zerogas, Stake to Earn, Wake up to earn, Move to earn and many more interesting events. Move to earn: Users walk and run to reach a required distance for a period of time while maintaining certain movement speeds to earn rewards + Wakeup to earn: Players wake up at a chosen time to obtain a bonus ticket + Play to earn (Stake to earn): PVE as staking to create a labor-saving experience for our gamers + PVP: Players compete with one another to rank up and earn weekly rewards + Oracle: Every in-game price is fixed by usdt + Zerogas: Our game puts an end to gas fees",
+       "vestingSchedule": "33% on TGE, A one month cliff, 33% /month"
+  
+    },
 {
        "poolContractAddress": "0x1ae6f0977cff8373db3a34f127b9a6d4ca491901",
        "projectName": "Pyramid Walk to Earn",
@@ -1068,6 +1104,8 @@
        "earnTokenDetailText": "Pyramid Walk to Earn is an application of Pyramid Ecosystem built by a team of experienced developers in the field of pro-sport and blockchain. The application provides a variety of features, generating stable and high compound returns.",
        "vestingSchedule": "20% ON TGE, 5 months linear"
     }
+    
+   
 
 
   ]
