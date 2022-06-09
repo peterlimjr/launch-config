@@ -1103,6 +1103,41 @@
        "earnTokenIntroduce": "Pyramid Walk to Earn is a Wealth & Health lifestyle, users can earn $PYRA by Walking with Pyramid NFT Sneakers.",
        "earnTokenDetailText": "Pyramid Walk to Earn is an application of Pyramid Ecosystem built by a team of experienced developers in the field of pro-sport and blockchain. The application provides a variety of features, generating stable and high compound returns.",
        "vestingSchedule": "20% ON TGE, 5 months linear"
+    },
+    {
+       "poolContractAddress": "0x0bbf5b694c7411531ba4cdad189784d92ea51bbb",
+       "projectName": "Pyramid Walk to Earn",
+       "logoUrl": "https://i.ibb.co/GxtCCLX/logo-twitter-new.png",
+       "poolName": "Open to all Pool",
+
+       "salePrice": "1PYRA= 0,012BUSD",
+       "IGOStarts": "June 9th,10:00AM UTC",
+       "IGOEnds": "June 9th,01:00PM UTC",
+       "ClaimStarts": "June 10th",
+    
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "PYRA",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "100000000",
+       "decimals": "18",
+ 
+        "website": "https://pyramidwalk.com", 
+        "twitter": "https://twitter.com/Pyramid_Eco", 
+        "telegram": "https://t.me/pyramidpadchat", 
+        
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "25000",
+       "accessType": "open to all",
+ 
+       "earnTokenIntroduce": "Pyramid Walk to Earn is a Wealth & Health lifestyle, users can earn $PYRA by Walking with Pyramid NFT Sneakers.",
+       "earnTokenDetailText": "Pyramid Walk to Earn is an application of Pyramid Ecosystem built by a team of experienced developers in the field of pro-sport and blockchain. The application provides a variety of features, generating stable and high compound returns.",
+       "vestingSchedule": "20% ON TGE, 5 months linear"
     }
     
    
