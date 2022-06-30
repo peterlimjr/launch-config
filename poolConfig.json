@@ -1139,7 +1139,42 @@
        "earnTokenDetailText": "Pyramid Walk to Earn is an application of Pyramid Ecosystem built by a team of experienced developers in the field of pro-sport and blockchain. The application provides a variety of features, generating stable and high compound returns.",
        "vestingSchedule": "20% ON TGE, 5 months linear"
     }
+    ,
+{
+       "poolContractAddress": "0xfa1a1f74ec7b40ae63943b2d8d5416313ce9f431",
+       "projectName": "MOV'N",
+       "logoUrl": "https://i.ibb.co/yPdG938/movnlogo.jpg",
+       "poolName": "Guaranteed Pool",
+
+       "salePrice": "MOV= 0,15BUSD",
+       "IGOStarts": "July 1st, ,10:00AM UTC",
+       "IGOEnds": "July 1st, 01:00PM UTC",
+       "ClaimStarts": "TBA",
     
+ 
+       "network": "Polygon",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "MOV",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "1000000000",
+       "decimals": "18",
+ 
+        "website": "https://movn.ws", 
+        "twitter": "https://twitter.com/MOVN_world", 
+        "telegram": "https://t.me/movn_world", 
+        
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "20000",
+       "accessType": "whitelist",
+ 
+       "earnTokenIntroduce": "We are the Superapp of Sports, a move-to-earn web3 platform where players can make awesome earnings for being physically active. The Currency of Sports ($MOV) is the MOVN utility token and the symbol of this new sports economy.",
+       "earnTokenDetailText": "We are the Superapp of Sports, a move-to-earn web3 platform where players can make awesome earnings for being physically active. The Currency of Sports ($MOV) is the MOVN utility token and the symbol of this new sports economy..",
+       "vestingSchedule": "25% ON TGE, 75% (6 months)"
+    }
    
 
 
