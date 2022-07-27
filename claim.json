@@ -7,6 +7,14 @@
     {
        "poolContractAddress": "0x242f0147870c73d10b8c6cef37ea828fbcae7341",
        "claimUrl": "https://bsc.tars.pro/space/CheersLand/claimer/MultiversePad_MTVP_Token_Vesting"
+    },
+    {
+       "poolContractAddress": "0x61bdba808beab7e9c041b9c25d612334d38456c1",
+       "claimUrl": "https://bsc.tars.pro/space/CheersLand/claimer/Legion_Network_(LGX)_Token_Vesting"
+    },
+    {
+       "poolContractAddress": "0x159f94303b13d28d9ad296207c37c9b882806f14",
+       "claimUrl": "https://bsc.tars.pro/space/CheersLand/claimer/Legion_Network_(LGX)_Token_Vesting"
     }
   ]
 }
