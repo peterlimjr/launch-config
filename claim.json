@@ -1,6 +1,10 @@
 {
   "poolList": [
     {
+       "poolContractAddress": "0x24df705dad7f37775902446bd2f462aa1db7b979",
+       "claimUrl": "https://bsc.tars.pro/space/CheersLand/claimer/MultiversePad_MTVP_Token_Vesting"
+    },
+    {
        "poolContractAddress": "0x242f0147870c73d10b8c6cef37ea828fbcae7341",
        "claimUrl": "https://bsc.tars.pro/space/CheersLand/claimer/MultiversePad_MTVP_Token_Vesting"
     }
