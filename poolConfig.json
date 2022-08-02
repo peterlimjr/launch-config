@@ -1211,6 +1211,42 @@
        "earnTokenDetailText": "We are the Superapp of Sports, a move-to-earn web3 platform where players can make awesome earnings for being physically active. The Currency of Sports ($MOV) is the MOVN utility token and the symbol of this new sports economy..",
        "vestingSchedule": "25% ON TGE, 75% (6 months)"
     }
+        ,
+{
+       "poolContractAddress": "0x9bc7c9e721de17bfee9d08a0c22a07fdc3591943",
+       "projectName": "inSHAPE",
+       "logoUrl": "https://inshape.app/img/logo.svg",
+       "poolName": "Guaranteed Pool",
+
+       "salePrice": "SHAPE= 0.09BUSD",
+       "IGOStarts": "July 1st,10:00AM UTC",
+       "IGOEnds": "July 1st,1:00PM UTC",
+       "ClaimStarts": "14 August 2022 at 12:00 UTC",
+    
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "inSHAPE",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "1000000000",
+       "decimals": "18",
+ 
+        "website": "https://inshape.app", 
+        "twitter": "https://twitter.com/inshapeapp", 
+        "telegram": "https://t.me/inshapeapp/", 
+        
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "20000",
+       "accessType": "whitelist",
+ 
+       "earnTokenIntroduce": "inSHAPE, the Ultimate Move to Earn app, is a lifestyle app on the BSC ecosystem with a combination of GameFi elements which aims to solve real problems in the M2E Ecosystem, especially for the users who want/seek rewards based on their exercise time, and also want/seek tokens with improved utility, one that goes beyond the blockchain.",
+       "earnTokenDetailText": "inSHAPE was created to solving real problems in the Move to Earn industry and is one step ahead of our competitors because: • In addition to rewarding steps and running, our app also offers SHAPE token specific rewards for 4 other different sports - tennis, basketball, soccer and gym. And we're also preparing to reward 6 other sports: hiking, volleyball, handball, baseball, rugby and table tennis.• We also wanted our tokens to have a certain utility outside the blockchain as well, so products and services outside the blockchain world are available on the inSHAPE App Marketplace. Users can get them at absolutely special prices, thanks to the discount codes purchased exclusively with SHAPE tokens.• Also, our NFT offer is limited to only 1,500 NFTs per sport type. This significantly increases the SHAPE tokens' utility.• Last but not least, another advantage of the inSHAPE App is that our project is based on one digital currency, not two. NFTs can only be purchased, minted, upgraded or repaired with the SHAPE tokens.• Furthermore, the use of a single cryptocurrency means that tokens will be burned faster and this will lead to a further increase of the SHAPE tokens' price.",
+       "vestingSchedule": "10% unlocked at TGE and 90% monthly vesting"
+    }
 
   ]
 }
