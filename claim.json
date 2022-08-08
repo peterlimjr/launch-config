@@ -15,6 +15,18 @@
     {
        "poolContractAddress": "0x159f94303b13d28d9ad296207c37c9b882806f14",
        "claimUrl": "https://bsc.tars.pro/space/CheersLand/claimer/Legion_Network_(LGX)_Token_Vesting"
+    },
+    {
+       "poolContractAddress": "0xe12d80f1e6f6dafe335d14903812de9970465974",
+       "claimUrl": "https://bsc.tars.pro/space/CheersLand/claimer/MetaFighter_(MF)_Token_Vesting"
+    },
+    {
+       "poolContractAddress": "0xa060e84480f672eff53fa39d250ebe9be1923575",
+       "claimUrl": "https://bsc.tars.pro/space/CheersLand/claimer/MetaFighter_(MF)_Token_Vesting"
+    },
+    {
+       "poolContractAddress": "0xb9e576782ae6c86c5ce5cfde15cf95533036353e",
+       "claimUrl": "https://bsc.tars.pro/space/CheersLand/claimer/MetaFighter_(MF)_Token_Vesting"
     }
   ]
 }
