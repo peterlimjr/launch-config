@@ -1184,5 +1184,41 @@
     }
 
   ]
+     ,
+{
+       "poolContractAddress": "0xb1f4d2099c57c818e4f6064c4499d6e5b1a245d4",
+       "projectName": "Monopolon",
+       "logoUrl": "https://i.ibb.co/Tkkjtfc/photo-2022-02-25-08-40-33.jpg",
+       "poolName": "Guaranteed Pool",
+
+       "salePrice": "MLON= 1BUSD",
+       "IGOStarts": "August 30th,10:00AM UTC",
+       "IGOEnds": "August 30th,1:00PM UTC",
+       "ClaimStarts": "3 September",
+    
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "MLON",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "30,000,000",
+       "decimals": "18",
+ 
+        "website": "https://www.monopolon.io", 
+        "twitter": "https://twitter.com/monopolondefi", 
+        "telegram": "https://t.me/monopolon", 
+        
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "200000",
+       "accessType": "whitelist",
+ 
+       "earnTokenIntroduce": "Futuristic monopoly project with virtual buildings and land",
+       "earnTokenDetailText": "Monopolon is a GameFi project with a dynamic similar to that of the iconic game ‘Monopoly’. Individual NFTs represent players in ‘board’ where they can move around to earn rewards, join guilds, engage other players in battle (PvP), and participate in boss raids and guild wars on a grand scale. Monopolon also has virtual land and infrastructure that players can purchase to build up equity and secure their place in the metaverse.",
+       "vestingSchedule": "100% unlocked at TGE"
+    }
 }
 
