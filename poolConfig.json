@@ -1182,8 +1182,6 @@
        "earnTokenDetailText": "inSHAPE was created to solving real problems in the Move to Earn industry and is one step ahead of our competitors because: • In addition to rewarding steps and running, our app also offers SHAPE token specific rewards for 4 other different sports - tennis, basketball, soccer and gym. And we're also preparing to reward 6 other sports: hiking, volleyball, handball, baseball, rugby and table tennis.• We also wanted our tokens to have a certain utility outside the blockchain as well, so products and services outside the blockchain world are available on the inSHAPE App Marketplace. Users can get them at absolutely special prices, thanks to the discount codes purchased exclusively with SHAPE tokens.• Also, our NFT offer is limited to only 1,500 NFTs per sport type. This significantly increases the SHAPE tokens' utility.• Last but not least, another advantage of the inSHAPE App is that our project is based on one digital currency, not two. NFTs can only be purchased, minted, upgraded or repaired with the SHAPE tokens.• Furthermore, the use of a single cryptocurrency means that tokens will be burned faster and this will lead to a further increase of the SHAPE tokens' price.",
        "vestingSchedule": "10% unlocked at TGE and 90% monthly vesting"
     }
-
-  ]
      ,
 {
        "poolContractAddress": "0xb1f4d2099c57c818e4f6064c4499d6e5b1a245d4",
@@ -1220,5 +1218,6 @@
        "earnTokenDetailText": "Monopolon is a GameFi project with a dynamic similar to that of the iconic game ‘Monopoly’. Individual NFTs represent players in ‘board’ where they can move around to earn rewards, join guilds, engage other players in battle (PvP), and participate in boss raids and guild wars on a grand scale. Monopolon also has virtual land and infrastructure that players can purchase to build up equity and secure their place in the metaverse.",
        "vestingSchedule": "100% unlocked at TGE"
     }
+  ]
 }
 
