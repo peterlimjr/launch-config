@@ -1363,6 +1363,42 @@
        "earnTokenDetailText": "BlocKombat is a game based on the exciting idea of fighting different heroes. The best players receive NFT rewards and real income. The BlocKombat tournaments will help form a real league of loyal players. Based on NFT technology, BlocKombat is not just an exciting game, but a whole platform that allows users to trade not only game items and characters, but also their skills. BlocKombat is developed for both mobile devices and PC and provides interoperability with multiple blockchains such as BSC, CSC, OKC, etc. The project’s tokenomics is sustainable and relies on the BKB token, which is the main ecosystem incentive and also allows participation in the project’s DAO. Among the project partners are such big names as OKex Smart Chain, CoinEx Smart Chain, Solana Nation, BNB Nation, Polkawar, etc..",
        "vestingSchedule": "20% unlock at TGE 20% unlock weekly"
     }
+      ,
+{
+       "poolContractAddress": "0xa511d246348ab2dfc6030aa348c076068cee007f",
+       "projectName": "BlocKombat",
+       "logoUrl": "https://i.ibb.co/y51qHhF/BKB-Logo.png",
+       "poolName": "Open to all Pool",
+
+       "salePrice": "BKB= 0.01BUSD",
+       "IGOStarts": "September 2nd,01:30:00PM UTC",
+       "IGOEnds": "September 2nd,5:00PM UTC",
+       "ClaimStarts": "September 5th",
+    
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "BKB",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "1,000,000",
+       "decimals": "18",
+ 
+        "website": "https://blockombat.com/", 
+        "twitter": "https://twitter.com/blockombat", 
+        "telegram": "https://t.me/blockombat", 
+        
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "25000",
+       "accessType": "open to all",
+ 
+       "earnTokenIntroduce": "BlocKombat is a P2E (play to earn) 3D multichain, GameFi ecosystem with NFTs rewards with the aim of revolutionizing the GameFi industry and further drive the adoption of crypto and play to earn in the gaming industry.",
+       "earnTokenDetailText": "BlocKombat is a game based on the exciting idea of fighting different heroes. The best players receive NFT rewards and real income. The BlocKombat tournaments will help form a real league of loyal players. Based on NFT technology, BlocKombat is not just an exciting game, but a whole platform that allows users to trade not only game items and characters, but also their skills. BlocKombat is developed for both mobile devices and PC and provides interoperability with multiple blockchains such as BSC, CSC, OKC, etc. The project’s tokenomics is sustainable and relies on the BKB token, which is the main ecosystem incentive and also allows participation in the project’s DAO. Among the project partners are such big names as OKex Smart Chain, CoinEx Smart Chain, Solana Nation, BNB Nation, Polkawar, etc..",
+       "vestingSchedule": "20% unlock at TGE 20% unlock weekly"
+    }
          ,
 {
        "poolContractAddress": "0xace2809937fa27487821f1bfb33ec5e010376ecd",
