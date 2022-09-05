@@ -1435,6 +1435,42 @@
        "earnTokenDetailText": "Traditional gaming companies are profit driven, focused on products revolved around microtransactions, loot boxes, and other methods. At BMN, our mission is to revitalize the industry to provide our users with innovative experiences, in which users can own and monetize their in-game assets.",
        "vestingSchedule": "20% on TGE,linear unlock for 6 months"
     }
+          ,
+{
+       "poolContractAddress": "0x2e7bc3e9e693257c7d1e828b730183044518ceba",
+       "projectName": "Blackmagic",
+       "logoUrl": "https://i.ibb.co/sRKnTkd/blackm.jpg",
+       "poolName": "Open to all Pool",
+
+       "salePrice": "BMC= 0.02BUSD",
+       "IGOStarts": "September 5th,01:30PM UTC",
+       "IGOEnds": "September 5th,5:00PM UTC",
+       "ClaimStarts": "September 9th",
+    
+ 
+       "network": "ETH",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "BMC",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "1,000,000,000",
+       "decimals": "18",
+ 
+        "website": "https://blackmagic.network/", 
+        "twitter": "https://twitter.com/blackmagicdao", 
+        "telegram": "https://t.me/blackmagicnetworkgroup", 
+        
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "50000",
+       "accessType": "open to all",
+ 
+       "earnTokenIntroduce": "BMN is a DAO governed Metaverse gaming platform, consisting of the $BMC revenue sharing governance token, NFT dApp ecosystem, Game Studio, Marketplace, DEX Aggregrator, Launchpad and Wallet.",
+       "earnTokenDetailText": "Traditional gaming companies are profit driven, focused on products revolved around microtransactions, loot boxes, and other methods. At BMN, our mission is to revitalize the industry to provide our users with innovative experiences, in which users can own and monetize their in-game assets.",
+       "vestingSchedule": "20% on TGE,linear unlock for 6 months"
+    }
    
   ]
 }
