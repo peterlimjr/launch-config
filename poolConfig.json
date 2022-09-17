@@ -1471,6 +1471,42 @@
        "earnTokenDetailText": "Traditional gaming companies are profit driven, focused on products revolved around microtransactions, loot boxes, and other methods. At BMN, our mission is to revitalize the industry to provide our users with innovative experiences, in which users can own and monetize their in-game assets.",
        "vestingSchedule": "20% on TGE,linear unlock for 6 months"
     }
+           ,
+{
+       "poolContractAddress": "0x71983a354aead80479773dc9501f280815d6f266",
+       "projectName": "SLEEP",
+       "logoUrl": "https://drive.google.com/file/d/1PmIdwWp568Cj1EbRzaI1fnwoZyn_AnrB/view?usp=sharing",
+       "poolName": "Guaranteed Pool",
+
+       "salePrice": "SLEEP= 0.009BUSD",
+       "IGOStarts": "September 19th,10:00AM UTC",
+       "IGOEnds": "September 19th,1:00PM UTC",
+       "ClaimStarts": "September 30th",
+    
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "SLEEP",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "1,000,000,000",
+       "decimals": "18",
+ 
+        "website": "www.sleep.game", 
+        "twitter": "https://twitter.com/SleepGame_", 
+        "telegram": "https://t.me/sleepgame", 
+        
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "25000",
+       "accessType": "whitelist",
+ 
+       "earnTokenIntroduce": "SLEEP is the first Web3 lifestyle app with Social-Fi and Game-Fi elements where users can earn $ZZZ for sleeping, relaxing and putting their phone away 😴 At launch, users equipped with NFT beds - sleep to earn $SLEEP, which can be used to level up and mint new beds and other equipment. Players can choose to rent or sell their NFT beds on the in-app Marketplace; users’ SLEEP earnings are stored in the in-app Wallet, which has a built-in Swap function. 🎮 Game-Fi modes Sleeping: Lock your phone in Sleep mode and earn $ZZZ Drive: Lock your phone while driving the car and earn $ZZZ Mental health and rest: Lock your phone during the day and earn $ZZZ 🪙 Token Utility The $SLEEP token is used as the main project token within the ecosystem, it will be used for: governance and minting the first NFT to get started in-game. $SLEEP will be accompanied by a secondary token $ZZZ, which is used to perform major actions in the game: earn $ZZZ by locking their phone in one of the game modes, level up, buy accessories for NFTs, repair NFTs. $SLEEP: Governance, Staking, Minting first NFT $ZZZ: Earning in-game, level-up & repair NFTs, mint new NFTs Partners & Investors - Apollo Ventures - Crypton Studio Materials Website: https://sleep.game/ Deck: https://sleep.game/deck",
+       "earnTokenDetailText": "SLEEP is the first Web3 lifestyle app with Social-Fi and Game-Fi elements where users can earn $ZZZ for sleeping, relaxing and putting their phone away 😴 At launch, users equipped with NFT beds - sleep to earn $SLEEP, which can be used to level up and mint new beds and other equipment. Players can choose to rent or sell their NFT beds on the in-app Marketplace; users’ SLEEP earnings are stored in the in-app Wallet, which has a built-in Swap function. 🎮 Game-Fi modes Sleeping: Lock your phone in Sleep mode and earn $ZZZ Drive: Lock your phone while driving the car and earn $ZZZ Mental health and rest: Lock your phone during the day and earn $ZZZ 🪙 Token Utility The $SLEEP token is used as the main project token within the ecosystem, it will be used for: governance and minting the first NFT to get started in-game. $SLEEP will be accompanied by a secondary token $ZZZ, which is used to perform major actions in the game: earn $ZZZ by locking their phone in one of the game modes, level up, buy accessories for NFTs, repair NFTs. $SLEEP: Governance, Staking, Minting first NFT $ZZZ: Earning in-game, level-up & repair NFTs, mint new NFTs Partners & Investors - Apollo Ventures - Crypton Studio Materials Website: https://sleep.game/ Deck: https://sleep.game/deck",
+       "vestingSchedule": "20% at TGE 3 months linear vesting"
+    }
    
   ]
 }
