@@ -1507,6 +1507,42 @@
        "earnTokenDetailText": "SLEEP is the first Web3 lifestyle app with Social-Fi and Game-Fi elements where users can earn $ZZZ for sleeping, relaxing and putting their phone away. At launch, users equipped with NFT beds - sleep to earn $SLEEP, which can be used to level up and mint new beds and other equipment. Players can choose to rent or sell their NFT beds on the in-app Marketplace; users’ SLEEP earnings are stored in the in-app Wallet, which has a built-in Swap function.  Game-Fi modes Sleeping: Lock your phone in Sleep mode and earn $ZZZ Drive: Lock your phone while driving the car and earn $ZZZ Mental health and rest: Lock your phone during the day and earn $ZZZ 🪙 Token Utility The $SLEEP token is used as the main project token within the ecosystem, it will be used for: governance and minting the first NFT to get started in-game. $SLEEP will be accompanied by a secondary token $ZZZ, which is used to perform major actions in the game: earn $ZZZ by locking their phone in one of the game modes, level up, buy accessories for NFTs, repair NFTs.",
        "vestingSchedule": "20% at TGE 3 months linear vesting"
     }  
+        ,
+{
+       "poolContractAddress": "0xf25075bfa20a9e0c77466c1a0b3273ab318317b9",
+       "projectName": "SLEEP",
+       "logoUrl": "https://i.ibb.co/TTYc2nT/A4-Udaizs-400x400.jpg",
+       "poolName": "Open to all Pool",
+
+       "salePrice": "SLEEP= 0.009BUSD",
+       "IGOStarts": "September 19th,10:00AM UTC",
+       "IGOEnds": "September 19th,1:00PM UTC",
+       "ClaimStarts": "September 30th",
+    
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "SLEEP",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "1,000,000,000",
+       "decimals": "18",
+ 
+        "website": "www.sleep.game", 
+        "twitter": "https://twitter.com/SleepGame_", 
+        "telegram": "https://t.me/sleepgame", 
+        
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "25000",
+       "accessType": "open to all",
+ 
+       "earnTokenIntroduce": "SLEEP is the first Web3 lifestyle app with Social-Fi and Game-Fi elements where users can earn $ZZZ for sleeping, relaxing and putting their phone away. At launch, users equipped with NFT beds - sleep to earn $SLEEP, which can be used to level up and mint new beds and other equipment. Players can choose to rent or sell their NFT beds on the in-app Marketplace; users’ SLEEP earnings are stored in the in-app Wallet, which has a built-in Swap function.  Game-Fi modes Sleeping: Lock your phone in Sleep mode and earn $ZZZ Drive: Lock your phone while driving the car and earn $ZZZ Mental health and rest: Lock your phone during the day and earn $ZZZ 🪙 Token Utility The $SLEEP token is used as the main project token within the ecosystem, it will be used for: governance and minting the first NFT to get started in-game. $SLEEP will be accompanied by a secondary token $ZZZ, which is used to perform major actions in the game: earn $ZZZ by locking their phone in one of the game modes, level up, buy accessories for NFTs, repair NFTs.",
+       "earnTokenDetailText": "SLEEP is the first Web3 lifestyle app with Social-Fi and Game-Fi elements where users can earn $ZZZ for sleeping, relaxing and putting their phone away. At launch, users equipped with NFT beds - sleep to earn $SLEEP, which can be used to level up and mint new beds and other equipment. Players can choose to rent or sell their NFT beds on the in-app Marketplace; users’ SLEEP earnings are stored in the in-app Wallet, which has a built-in Swap function.  Game-Fi modes Sleeping: Lock your phone in Sleep mode and earn $ZZZ Drive: Lock your phone while driving the car and earn $ZZZ Mental health and rest: Lock your phone during the day and earn $ZZZ 🪙 Token Utility The $SLEEP token is used as the main project token within the ecosystem, it will be used for: governance and minting the first NFT to get started in-game. $SLEEP will be accompanied by a secondary token $ZZZ, which is used to perform major actions in the game: earn $ZZZ by locking their phone in one of the game modes, level up, buy accessories for NFTs, repair NFTs.",
+       "vestingSchedule": "20% at TGE 3 months linear vesting"
+    }  
      
   ]
 }
