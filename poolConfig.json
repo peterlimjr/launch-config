@@ -1543,6 +1543,42 @@
        "earnTokenDetailText": "SLEEP is the first Web3 lifestyle app with Social-Fi and Game-Fi elements where users can earn $ZZZ for sleeping, relaxing and putting their phone away. At launch, users equipped with NFT beds - sleep to earn $SLEEP, which can be used to level up and mint new beds and other equipment. Players can choose to rent or sell their NFT beds on the in-app Marketplace; users’ SLEEP earnings are stored in the in-app Wallet, which has a built-in Swap function.  Game-Fi modes Sleeping: Lock your phone in Sleep mode and earn $ZZZ Drive: Lock your phone while driving the car and earn $ZZZ Mental health and rest: Lock your phone during the day and earn $ZZZ 🪙 Token Utility The $SLEEP token is used as the main project token within the ecosystem, it will be used for: governance and minting the first NFT to get started in-game. $SLEEP will be accompanied by a secondary token $ZZZ, which is used to perform major actions in the game: earn $ZZZ by locking their phone in one of the game modes, level up, buy accessories for NFTs, repair NFTs.",
        "vestingSchedule": "20% at TGE 3 months linear vesting"
     }  
+             ,
+{
+       "poolContractAddress": "0x121963411e2595308f90359e33829bd0532f1dda",
+       "projectName": "Fragmint",
+       "logoUrl": "https://i.ibb.co/pZB9Wkx/fragmint.png",
+       "poolName": "Guaranteed Pool",
+
+       "salePrice": "FRAG= 0.04BUSD",
+       "IGOStarts": "October 12th,10:00AM UTC",
+       "IGOEnds": "October 12th,1:00PM UTC",
+       "ClaimStarts": "October 13, 15:30 UTC",
+    
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "FRAG",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "990,000,000",
+       "decimals": "18",
+ 
+        "website": "https://fragmint.com/", 
+        "twitter": "https://twitter.com/Fragmintnft", 
+        "telegram": "https://t.me/fragmintapp", 
+        
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "30000",
+       "accessType": "whitelist",
+ 
+       "earnTokenIntroduce": "The New NFTs On The Block Fragminted Digital Artworks Fragmint offers a revolutionary way of creating, minting, and auctioning digital art into smaller stand-alone NFTs.",
+       "earnTokenDetailText": "FRAGMINT | Powered by Evedo.co - Fragmentable NFTs with formable DAOs 🧩 =========== Fragmint is a one-stop solution for celebrities, festivals, and big franchises to launch and do NFT drops, capitalizing on their fandom. 🤩 Fragmint enables high-end art piece fragmentation for mass-market accessibility and the creation of a sub-economy. 🧩 Fragmint introduces a general governance voting system that allows the power users to vote for different decisions related to further platform development and upcoming auctions. 🧙 Fragmint gives DAO structure available for the owners of the different valuable NFTs generated during the different auctions. 🤝 All the FRAG Tokens will be used on Fragmint marketplace (limited supply, staking & burning mechanisms). ⚙️ Fragmint will be used by: 🔸 Celebrities from any industry 🔸 Large Scale Event Organizers 🔸 Global Scale Promoters 🔸 Major Film & TV Production Houses",
+       "vestingSchedule": "40% on TGE and then 10% monthly"
+    } 
      
   ]
 }
