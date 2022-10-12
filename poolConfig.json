@@ -1579,6 +1579,42 @@
        "earnTokenDetailText": "FRAGMINT | Powered by Evedo.co - Fragmentable NFTs with formable DAOs 🧩 =========== Fragmint is a one-stop solution for celebrities, festivals, and big franchises to launch and do NFT drops, capitalizing on their fandom. 🤩 Fragmint enables high-end art piece fragmentation for mass-market accessibility and the creation of a sub-economy. 🧩 Fragmint introduces a general governance voting system that allows the power users to vote for different decisions related to further platform development and upcoming auctions. 🧙 Fragmint gives DAO structure available for the owners of the different valuable NFTs generated during the different auctions. 🤝 All the FRAG Tokens will be used on Fragmint marketplace (limited supply, staking & burning mechanisms). ⚙️ Fragmint will be used by: 🔸 Celebrities from any industry 🔸 Large Scale Event Organizers 🔸 Global Scale Promoters 🔸 Major Film & TV Production Houses",
        "vestingSchedule": "40% on TGE and then 10% monthly"
     } 
+              ,
+{
+       "poolContractAddress": "0xadb1022c8f014e89697e2657449b44818e1c2ff6",
+       "projectName": "Fragmint",
+       "logoUrl": "https://i.ibb.co/pZB9Wkx/fragmint.png",
+       "poolName": "Open to all Pool",
+
+       "salePrice": "FRAG= 0.04BUSD",
+       "IGOStarts": "October 12th,01:30PM UTC",
+       "IGOEnds": "October 12th,08:00PM UTC",
+       "ClaimStarts": "October 13, 15:30 UTC",
+    
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "FRAG",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "990,000,000",
+       "decimals": "18",
+ 
+        "website": "https://fragmint.com/", 
+        "twitter": "https://twitter.com/Fragmintnft", 
+        "telegram": "https://t.me/fragmintapp", 
+        
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "30000",
+       "accessType": "open to all",
+ 
+       "earnTokenIntroduce": "The New NFTs On The Block Fragminted Digital Artworks Fragmint offers a revolutionary way of creating, minting, and auctioning digital art into smaller stand-alone NFTs.",
+       "earnTokenDetailText": "FRAGMINT | Powered by Evedo.co - Fragmentable NFTs with formable DAOs 🧩 =========== Fragmint is a one-stop solution for celebrities, festivals, and big franchises to launch and do NFT drops, capitalizing on their fandom. 🤩 Fragmint enables high-end art piece fragmentation for mass-market accessibility and the creation of a sub-economy. 🧩 Fragmint introduces a general governance voting system that allows the power users to vote for different decisions related to further platform development and upcoming auctions. 🧙 Fragmint gives DAO structure available for the owners of the different valuable NFTs generated during the different auctions. 🤝 All the FRAG Tokens will be used on Fragmint marketplace (limited supply, staking & burning mechanisms). ⚙️ Fragmint will be used by: 🔸 Celebrities from any industry 🔸 Large Scale Event Organizers 🔸 Global Scale Promoters 🔸 Major Film & TV Production Houses",
+       "vestingSchedule": "40% on TGE and then 10% monthly"
+    } 
      
   ]
 }
