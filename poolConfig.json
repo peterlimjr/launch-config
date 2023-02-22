@@ -1615,6 +1615,42 @@
        "earnTokenDetailText": "FRAGMINT | Powered by Evedo.co - Fragmentable NFTs with formable DAOs 🧩 =========== Fragmint is a one-stop solution for celebrities, festivals, and big franchises to launch and do NFT drops, capitalizing on their fandom. 🤩 Fragmint enables high-end art piece fragmentation for mass-market accessibility and the creation of a sub-economy. 🧩 Fragmint introduces a general governance voting system that allows the power users to vote for different decisions related to further platform development and upcoming auctions. 🧙 Fragmint gives DAO structure available for the owners of the different valuable NFTs generated during the different auctions. 🤝 All the FRAG Tokens will be used on Fragmint marketplace (limited supply, staking & burning mechanisms). ⚙️ Fragmint will be used by: 🔸 Celebrities from any industry 🔸 Large Scale Event Organizers 🔸 Global Scale Promoters 🔸 Major Film & TV Production Houses",
        "vestingSchedule": "40% on TGE and then 10% monthly"
     } 
+                ,
+{
+       "poolContractAddress": "0x088321a6895e9e6589066c76a88b656d3476c730",
+       "projectName": "PARMA Fan Token",
+       "logoUrl": "https://i.ibb.co/RvrXwVg/uni-icon.jpg",
+       "poolName": "Guaranteed Pool",
+
+       "salePrice": "PARMA= 1BUSD",
+       "IGOStarts": "February 25th,10:00AM UTC",
+       "IGOEnds": "February 25th,2:00PM UTC",
+       "ClaimStarts": "February 28th",
+    
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "PARMA",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "20,000,000",
+       "decimals": "18",
+ 
+        "website": "www.unitos.io/parma-fantoken/", 
+        "twitter": "https://twitter.com/unitos_io", 
+        "telegram": "https://t.me/parmafantoken_int", 
+        
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "30000",
+       "accessType": "whitelist",
+ 
+       "earnTokenIntroduce": "⚽ $PARMA is Fan token of legendary Parma Calcio 1913, a football team with a great history. Winner of: 🏆3 Italian Cups 🏆1 Italian Super Cup 🏆2 UEFA Cups 🏆1 UEFA Super Cup $PARMA Fan token is a cryptocurrency with the aim of revolutionizing fan engagement through innovative and exclusive experiences. Holders will also be able to participate in surveys, win match tickets and make important choices about their team. Highlights: 🔥 Sports club with over 100 years of history 🔥 Hundreds of thousands of fans worldwide 🔥 Launched by the CoinOfChampions team 🔥 Parma Calcio legends will support the project.",
+       "earnTokenDetailText": "⚽ $PARMA is Fan token of legendary Parma Calcio 1913, a football team with a great history. Winner of: 🏆3 Italian Cups 🏆1 Italian Super Cup 🏆2 UEFA Cups 🏆1 UEFA Super Cup $PARMA Fan token is a cryptocurrency with the aim of revolutionizing fan engagement through innovative and exclusive experiences. Holders will also be able to participate in surveys, win match tickets and make important choices about their team. Highlights: 🔥 Sports club with over 100 years of history 🔥 Hundreds of thousands of fans worldwide 🔥 Launched by the CoinOfChampions team 🔥 Parma Calcio legends will support the project.",
+       "vestingSchedule": "30% remaining amount in 3 months linearly (monthly vesting)"
+    } 
      
   ]
 }
