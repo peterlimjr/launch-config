@@ -1651,6 +1651,43 @@
        "earnTokenDetailText": "⚽ $PARMA is Fan token of legendary Parma Calcio 1913, a football team with a great history. Winner of: 🏆3 Italian Cups 🏆1 Italian Super Cup 🏆2 UEFA Cups 🏆1 UEFA Super Cup $PARMA Fan token is a cryptocurrency with the aim of revolutionizing fan engagement through innovative and exclusive experiences. Holders will also be able to participate in surveys, win match tickets and make important choices about their team. Highlights: 🔥 Sports club with over 100 years of history 🔥 Hundreds of thousands of fans worldwide 🔥 Launched by the CoinOfChampions team 🔥 Parma Calcio legends will support the project.",
        "vestingSchedule": "30% remaining amount in 3 months linearly (monthly vesting)"
     } 
+    
+                   ,
+{
+       "poolContractAddress": "0xdffabc4d897a2cde87d813e8aeb7b9500f1a0b39",
+       "projectName": "PARMA Fan Token",
+       "logoUrl": "https://i.ibb.co/RvrXwVg/uni-icon.jpg",
+       "poolName": "Open to all Pool",
+
+       "salePrice": "PARMA= 1BUSD",
+       "IGOStarts": "February 25th,02:30PM UTC",
+       "IGOEnds": "February 25th,08:00PM UTC",
+       "ClaimStarts": "February 28th",
+    
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "PARMA",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "20,000,000",
+       "decimals": "18",
+ 
+        "website": "www.unitos.io/parma-fantoken/", 
+        "twitter": "https://twitter.com/unitos_io", 
+        "telegram": "https://t.me/parmafantoken_int", 
+        
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "45000",
+       "accessType": "open to all",
+ 
+       "earnTokenIntroduce": "⚽ $PARMA is Fan token of legendary Parma Calcio 1913, a football team with a great history. Winner of: 🏆3 Italian Cups 🏆1 Italian Super Cup 🏆2 UEFA Cups 🏆1 UEFA Super Cup $PARMA Fan token is a cryptocurrency with the aim of revolutionizing fan engagement through innovative and exclusive experiences. Holders will also be able to participate in surveys, win match tickets and make important choices about their team. Highlights: 🔥 Sports club with over 100 years of history 🔥 Hundreds of thousands of fans worldwide 🔥 Launched by the CoinOfChampions team 🔥 Parma Calcio legends will support the project.",
+       "earnTokenDetailText": "⚽ $PARMA is Fan token of legendary Parma Calcio 1913, a football team with a great history. Winner of: 🏆3 Italian Cups 🏆1 Italian Super Cup 🏆2 UEFA Cups 🏆1 UEFA Super Cup $PARMA Fan token is a cryptocurrency with the aim of revolutionizing fan engagement through innovative and exclusive experiences. Holders will also be able to participate in surveys, win match tickets and make important choices about their team. Highlights: 🔥 Sports club with over 100 years of history 🔥 Hundreds of thousands of fans worldwide 🔥 Launched by the CoinOfChampions team 🔥 Parma Calcio legends will support the project.",
+       "vestingSchedule": "30% remaining amount in 3 months linearly (monthly vesting)"
+    } 
      
   ]
 }
