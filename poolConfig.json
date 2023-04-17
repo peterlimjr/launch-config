@@ -1688,7 +1688,42 @@
        "earnTokenDetailText": "⚽ $PARMA is Fan token of legendary Parma Calcio 1913, a football team with a great history. Winner of: 🏆3 Italian Cups 🏆1 Italian Super Cup 🏆2 UEFA Cups 🏆1 UEFA Super Cup $PARMA Fan token is a cryptocurrency with the aim of revolutionizing fan engagement through innovative and exclusive experiences. Holders will also be able to participate in surveys, win match tickets and make important choices about their team. Highlights: 🔥 Sports club with over 100 years of history 🔥 Hundreds of thousands of fans worldwide 🔥 Launched by the CoinOfChampions team 🔥 Parma Calcio legends will support the project.",
        "vestingSchedule": "30% remaining amount in 3 months linearly (monthly vesting)"
     } 
-     
+                   ,
+{
+       "poolContractAddress": "0x213e407267c260f3020cf33619099aba70578be5",
+       "projectName": "Quantum Hunter",
+       "logoUrl": "https://i.ibb.co/6JGxgxq/Quantum-Hunter-logo-tg.png",
+       "poolName": "Guaranteed Pool",
+
+       "salePrice": "QH= 0.0075BUSD",
+       "IGOStarts": "April 17th,10:00AM UTC",
+       "IGOEnds": "April 17th,2:00PM UTC",
+       "ClaimStarts": "April 18th",
+    
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "QH",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "200,000,000",
+       "decimals": "18",
+ 
+        "website": "https://quantumhunter.xyz/", 
+        "twitter": "https://twitter.com/Quantum_Hunter_", 
+        "telegram": "https://t.me/QuantumHunterOfficial", 
+        
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "50000",
+       "accessType": "whitelist",
+ 
+       "earnTokenIntroduce": "Quantum Hunter is an AI-Generated Game with endless-possibility stories. Unlike the traditional game planned out by the game designer and completely predictable, through the AI model, we pool inputs together to generate unpredictable outputs, so that the Quantum Hunter storytelling possibilities are endless.",
+       "earnTokenDetailText": "Quantum Hunter is an AI-Generated Game with endless-possibility stories. Unlike the traditional game planned out by the game designer and completely predictable, through the AI model, we pool inputs together to generate unpredictable outputs, so that the Quantum Hunter storytelling possibilities are endless.",
+       "vestingSchedule": "Unlock 50% of TGE, then vested 25% in the next two months"
+    } 
   ]
 }
 
