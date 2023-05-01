@@ -1760,6 +1760,42 @@
        "earnTokenDetailText": "Quantum Hunter is an AI-Generated Game with endless-possibility stories. Unlike the traditional game planned out by the game designer and completely predictable, through the AI model, we pool inputs together to generate unpredictable outputs, so that the Quantum Hunter storytelling possibilities are endless.",
        "vestingSchedule": "Unlock 50% of TGE, then vested 25% in the next two months"
     } 
+           ,
+{
+       "poolContractAddress": "0xcfc72fbf82d94f09c342a1de978d1288282f2559",
+       "projectName": "Mallconomy Mallcard Gold NFT + Silver NFT Gift",
+       "logoUrl": "https://i.ibb.co/6JGxgxq/Quantum-Hunter-logo-tg.png",
+       "poolName": "Open to all Pool",
+
+       "salePrice": "GOLD= 125BUSD",
+       "IGOStarts": "May 2nd,10:00AM UTC",
+       "IGOEnds": "May 2nd,7:00PM UTC",
+       "ClaimStarts": "May 2nd",
+    
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "GOLD",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "5000",
+       "decimals": "18",
+ 
+        "website": "https://mallconomy.com/", 
+        "twitter": "https://twitter.com/mallconomy", 
+        "telegram": "https://t.me/mallconomy", 
+        
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "20000",
+       "accessType": "open to all",
+ 
+       "earnTokenIntroduce": "Mallconomy is a new way to build and earn rewards in the metaverse, where shoppers, sellers and MallStars work together for mutual benefit! 🛍",
+       "earnTokenDetailText": "Over 50,000 MallStars have already registered and completed more than 1 Million tasks that unlocks Mallconomy's Decentralized Society ("DeSoc") retail and shopping community who are enjoying revenue sharing, passive income, brand rewards, store sale priorities, future launchpad & MallClub perks.  Join now and become a 'Mallconomy Partner' status.",
+       "vestingSchedule": "Claim starts today"
+    }
   
   ]
 }
