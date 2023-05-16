@@ -1832,6 +1832,42 @@
        "earnTokenDetailText": "Over 50,000 MallStars have already registered and completed more than 1 Million tasks that unlocks Mallconomy's Decentralized Society retail and shopping community who are enjoying revenue sharing, passive income, brand rewards, store sale priorities, future launchpad & MallClub perks.  Join now and become a 'Mallconomy Partner' status.",
        "vestingSchedule": "Claim starts today"
     }
+                       ,
+{
+       "poolContractAddress": "0x86dc98bba9076346d382340df5cf3645060a8237",
+       "projectName": "Metaverse Kombat",
+       "logoUrl": "https://i.ibb.co/J3J3nmh/200-x-200.png",
+       "poolName": "Guaranteed Pool",
+
+       "salePrice": "MVK= 0.008BUSD",
+       "IGOStarts": "May 17th,10:00AM UTC",
+       "IGOEnds": "May 17th,2:00PM UTC",
+       "ClaimStarts": "May 19th",
+    
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "QH",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "300,000,000",
+       "decimals": "18",
+ 
+        "website": "https://metaversekombat.io/", 
+        "twitter": "https://twitter.com/MetaVerseKombat", 
+        "telegram": "https://t.me/MetaVerseKombatOfficial", 
+        
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "50000",
+       "accessType": "whitelist",
+ 
+       "earnTokenIntroduce": "Experience Metaverse Kombat, a thrilling P2E game on the BSC Network. Play in single or multiplayer mode, choose from diverse fighters and stages, and earn Staking Rewards. Choose Your Destiny!",
+       "earnTokenDetailText": "Experience Metaverse Kombat, a thrilling P2E game on the BSC Network. Play in single or multiplayer mode, choose from diverse fighters and stages, and earn Staking Rewards. Choose Your Destiny!",
+       "vestingSchedule": "Unlock 50% of TGE, then vested 25% in the next two months"
+    } 
   ]
 }
 
