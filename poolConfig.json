@@ -1977,6 +1977,43 @@
        "earnTokenDetailText": "$MOMO is a memecoin with utilities for continuous growth in Crypto World. Mission of MOMO Team is to keep building utilities and generate revenue for its holders to avoid getting the hype drained.",
        "vestingSchedule": "100% at TGE"
     } 
+
+     ,
+{
+       "poolContractAddress": "0xba8da4480d17fc79bac978bbf441a6077e8cd7cd",
+       "projectName": "MOMO ERC",
+       "logoUrl": "https://i.ibb.co/0G5ZDD5/MOMO-logo.png",
+       "poolName": "Open to All Pool",
+
+       "salePrice": "MOMO= 0.0000018BUSD",
+       "IGOStarts": "August 22th,5:05PM UTC",
+       "IGOEnds": "August 22th,10:05PM UTC",
+       "ClaimStarts": "August 25th",
+    
+ 
+       "network": "ETH",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "TARS",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "1,000,000,000,000",
+       "decimals": "18",
+ 
+        "website": "https://app.momo-erc.com/", 
+        "twitter": "https://twitter.com/momoerc", 
+        "telegram": "https://t.me/MOMOwhales_lounge", 
+        
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "25000",
+       "accessType": "open to all",
+ 
+       "earnTokenIntroduce": "$MOMO is a memecoin with utilities for continuous growth in Crypto World. Mission of MOMO Team is to keep building utilities and generate revenue for its holders to avoid getting the hype drained.",
+       "earnTokenDetailText": "$MOMO is a memecoin with utilities for continuous growth in Crypto World. Mission of MOMO Team is to keep building utilities and generate revenue for its holders to avoid getting the hype drained.",
+       "vestingSchedule": "100% at TGE"
+    } 
   ]
 }
 
